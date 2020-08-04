@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: #D8D8D8;
+    width: 100%;
+    height: 100vh;
+}
+
+.header{
+    width: 100%;
+    height: 15vh;
+    background-color: #444444;
+}
+
+.main-body{
+    width: 60%;
+    height: 75vh;
+    background-color: #efefef;
+    margin: 0 auto;
+
+}
+
+.footer{
+    width: 60%;
+    height: 10vh;
+    background-color: #222222;
+    margin: 0 auto;
+    
+
+}
